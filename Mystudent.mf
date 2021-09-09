@@ -1,0 +1,3 @@
+Main-Class: myStudent.MyStudent
+Name: myStudent/MyStudent.class
+Java-Bean: True
