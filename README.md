@@ -1,7 +1,7 @@
 # myStudent
 
-#compile
+## compile
 javac -d . MyStudent.java
 
-#create jar file
+## create jar file
 jar -cfm MyStudent.jar MyStudent.mf ./myStudent/*.*
